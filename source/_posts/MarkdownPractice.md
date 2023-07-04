@@ -83,7 +83,7 @@ $(document).ready(function () {
 ---
 ### 图片
 
-![W 图片](/home/yoku/HoshiBlog/source/w.jpg "w")
+![W 图片](/source/w.jpg "w")
 
 图片来源[AreaAaron](https://www.pixiv.net/artworks/86957260)
 
