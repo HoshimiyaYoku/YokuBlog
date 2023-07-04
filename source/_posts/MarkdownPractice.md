@@ -81,7 +81,10 @@ $(document).ready(function () {
 直接使用链接<https://hoshimiyayoku.com>
 
 ---
-###图片
-![W 图片](https://i.pximg.net/img-original/img/2021/01/10/19/13/34/86957260_p0.jpg)
+### 图片
+
+![W 图片](/home/yoku/HoshiBlog/source/w.jpg "w")
+
 图片来源[AreaAaron](https://www.pixiv.net/artworks/86957260)
-####结束，大概常用的就这些，或许以后需要用到数学公式渲染，不过那都是以后的事情了。
+
+结束，大概常用的就这些，或许以后需要用到数学公式渲染，不过那都是以后的事情了。
