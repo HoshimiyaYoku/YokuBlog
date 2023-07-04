@@ -4,7 +4,7 @@ title: 'MarkDown格式练习'
 
 date: 2023-07-04 14:39:00
 
-tag: MarkDown, Study
+tag: Markdown
 
 category: Study
 
@@ -74,7 +74,7 @@ $(document).ready(function () {
 ```
 
 ---
-###链接
+### 链接
 
 这是一个链接[Yoku's Blog](https://hoshimiyayoku.com)
 
@@ -82,6 +82,6 @@ $(document).ready(function () {
 
 ---
 ###图片
-![W 图片](/home/yoku/HoshiBlog/source/w.jpg)
+![W 图片](/source/w.jpg)
 
 ####结束，大概常用的就这些，或许以后需要用到数学公式渲染，不过那都是以后的事情了。
