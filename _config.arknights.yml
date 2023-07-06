@@ -36,7 +36,7 @@ aside:
 # 格式：链接 || 图标
 social:
   GitHub: https://github.com/HoshimiyaYoku || fab fa-github
-  E-Mail: href="mailto:Wing141unte@gmail.com || fa fa-envelope
+  E-Mail: mailto:Wing141unte@gmail.com || fa fa-envelope
   # Weibo: https://weibo.com/yourname || fab fa-weibo
   # Zhihu: https://www.zhihu.com/people/yourname || fab fa-zhihu
 
