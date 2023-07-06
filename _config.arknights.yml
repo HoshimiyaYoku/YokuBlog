@@ -37,6 +37,7 @@ aside:
 social:
   GitHub: https://github.com/HoshimiyaYoku || fab fa-github
   E-Mail: mailto:Wing141unte@gmail.com || fa fa-envelope
+  Blibili: https://space.bilibili.com/3197496 || fa-brands fa-bilibili
   # Weibo: https://weibo.com/yourname || fab fa-weibo
   # Zhihu: https://www.zhihu.com/people/yourname || fab fa-zhihu
 
@@ -100,8 +101,9 @@ gitalk:
 # Waline
 # 详情: https://waline.js.org/
 waline:
-  enable: false
-  server_url: #Server_Url
+  enable: true
+  server_url: https://yoku-blog-comment-88b9vmbjk-hoshimiyayoku.vercel.app
+
 
 # 图表支持
 mermaid:
