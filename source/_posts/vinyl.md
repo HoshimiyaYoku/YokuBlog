@@ -4,8 +4,7 @@ date: 2023-07-20 11:21:00
 tag: diary
 category: dailylife
 ---
-鉴于又拿到了3万日元的补助金（其实还没，8月8号到账）。然后见到了TEAC的[Miku联动黑胶机]
-(https://teac.jp/jp/product/tn-180bt-miku/top)，就完全走不动道了。
+鉴于又拿到了3万日元的补助金（其实还没，8月8号到账）。然后见到了TEAC的[Miku联动黑胶机](https://teac.jp/jp/product/tn-180bt-miku/top)，就完全走不动道了。
 
 ---
 ![TN-180BT-MIKU](https://teac.jp/images/products/_tmp/main_img/teac/tn-180bt-miku_main.jpg "TN-180BT-MIKU")
