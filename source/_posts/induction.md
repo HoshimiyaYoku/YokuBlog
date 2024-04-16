@@ -4,6 +4,8 @@ date: 2024-04-16 12:02:00
 tag: diary
 category: dailylife
 password: dwndndjgk
+abstract: 一些在日就职的经验
+message: 密码等我想好了再公开好了，虽然前端加密并不可靠
 ---
 
 ## 前言
