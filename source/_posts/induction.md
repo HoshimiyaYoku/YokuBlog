@@ -8,6 +8,7 @@ abstract: 一些在日就职的经验
 message: 密码等我想好了再公开好了，虽然前端加密并不可靠
 wrong_pass_message: 与 Rhodes Island™ 效验口令失败，请重试。
 wrong_hash_message: 与 Rhodes Island™ 效验口令失败，当前使用临时权限查看。
+
 ---
 
 ## 前言
