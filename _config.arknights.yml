@@ -79,6 +79,14 @@ search:
   # 设为 raw 时，依据 markdown 源文件生成
   format: striptags
 
+# 不蒜子
+# 详见 http://busuanzi.ibruce.info/
+busuanzi:
+  enable: true
+  sitePV: true # 站点总访问量
+  siteUV: true # 站点访客数
+  pagePV: true # 页面访问量
+
 # Valine
 # 详见 https://valine.js.org
 valine:
@@ -118,6 +126,16 @@ pjax:
 mathjax:
   enable: false
   version: "2.6.1"
+  
+# Security
+encrypt: # hexo-blog-encrypt
+  abstract: 与 Rhodes Island™ 取得弱神经连接时需要口令
+  message: 请输入与 Rhodes Island™ 取得弱神经连接时的口令：
+  tags:
+  - {name: tagName, password: 密码A}
+  - {name: tagName, password: 密码B}
+  wrong_pass_message: 与 Rhodes Island™ 效验口令失败，请重试。
+  wrong_hash_message: 与 Rhodes Island™ 效验口令失败，当前使用临时权限查看。
 
 # 在 `<head>` 标签内引入 CSS 样式表
 stylesheets:
@@ -125,5 +143,3 @@ stylesheets:
 # 在 `<body>` 尾部引入 JavaScript 脚本
 scripts:
 
-encrypt:
-    enable:true
